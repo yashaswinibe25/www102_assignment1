@@ -1,0 +1,40 @@
+/* CSS Document */
+
+body
+{
+  font-family: 'Rokkitt', serif;
+}
+.container
+{
+	width:960px;
+	margin:auto;
+}
+
+table th,tr,td
+{
+  padding:10px; 	
+}
+table tr:nth-child(even)
+{
+ background:#8F71A4;	
+}
+
+a
+{
+ color:black;	
+}
+h1
+{
+	color:#375EC7;
+	background: 	#FFF0F5;
+	text-align:center;
+}
+h3
+{
+	color:#620809;
+}
+ul li
+{
+ font-size:1.2em;
+ padding:10px;	
+}
